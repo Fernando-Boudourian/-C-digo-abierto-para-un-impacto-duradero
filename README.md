@@ -1,1 +1,2 @@
-# -C-digo-abierto-para-un-impacto-duradero
+# -Código-abierto-para-un-impacto-duradero
+Así como el código abierto permite construir mejores sistemas con colaboración, la filantropía estructurada optimiza la forma de ayudar. Un modelo basado en planificación, medición y alianzas estratégicas que maximiza el impacto de cada donación. Porque en el mundo del desarrollo, como en la solidaridad, lo que se planifica y mide tiene más posibilidades de generar cambios sostenibles.
